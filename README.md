@@ -35,7 +35,7 @@ This project demonstrates how to leverage Google Cloud Platform (GCP) services t
 - Google Cloud SDK
 - Google Cloud account with BigQuery, Vertex AI, and Natural Language API enabled
 - Gradio for interactive interfaces
-- Required Python libraries (install via `requirements.txt`)
+- Required Python libraries
 
 ## Installation and Usage
 
