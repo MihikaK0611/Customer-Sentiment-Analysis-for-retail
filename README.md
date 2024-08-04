@@ -39,8 +39,7 @@ This project demonstrates how to leverage Google Cloud Platform (GCP) services t
 
 ## Installation and Usage
 
-For Installation and usage, follow my blog for all the step by step instructions to build this project.
-Link to my blog
+For Installation and usage, follow my blog for all the step-by-step instructions to build this project: [Project Saadhna: Customer Sentiment Analysis for Retail](https://medium.com/@mihika.khemka/project-saadhna-customer-sentiment-analysis-for-retail-434ccf4e789c)
 
 ## License
 
